@@ -1,5 +1,5 @@
 package medium;
-import java.lang.Math;
+
 public class Reverse_Integer {
     public static int reverse(int x) {
         int rever = 0;
